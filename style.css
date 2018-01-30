@@ -1,0 +1,16 @@
+.radioButtondemoBasicUsage body {
+  padding: 20px; }
+
+.radioButtondemoBasicUsage hr {
+  margin-left: -20px;
+  opacity: 0.3; }
+
+.qna_container{
+    background: #FFFFFF;
+    max-height: auto;
+}
+
+.notAnswered{
+    background:rgb(197,17,98);
+}
+  

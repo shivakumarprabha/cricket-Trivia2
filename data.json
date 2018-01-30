@@ -1,0 +1,102 @@
+[
+    {
+        "answer": "B", 
+        "question": "What colour of caps are worn by the Australian national cricket team?", 
+        "options": [
+            "Red", 
+            "Green", 
+            "Blue", 
+            "Azure gray"
+        ]
+    }, 
+    {
+        "answer": "D", 
+        "question": "Which county plays at home at the St. Lawrence Ground?", 
+        "options": [
+            "Glamorgan", 
+            "Yorkshire", 
+            "Warwickshire", 
+            "Kent"
+        ]
+    }, 
+    {
+        "answer": "A", 
+        "question": "What kind of fruit is depicted on the badge of Worcestershire County Cricket Club?", 
+        "options": [
+            "Pear", 
+            "Apple", 
+            "Mango", 
+            "Grapes"
+        ]
+    }, 
+    {
+        "answer": "A", 
+        "question": "Who among the following is the highest wicket taker in all formats of cricket?", 
+        "options": [
+            "M Muralitharan", 
+            "SK Warne", 
+            "A Kumble", 
+            "GD McGrath"
+        ]
+    }, 
+    {
+        "answer": "B", 
+        "question": "Which king declared cricket illegal in 1477?", 
+        "options": [
+            "Charlie II", 
+            "Edward IV", 
+            "Charles I", 
+            "Edward V"
+        ]
+    }, 
+    {
+        "answer": "B", 
+        "question": "Which country won the first Cricket World Cup in 1975?", 
+        "options": [
+            "Australia", 
+            "West Indies", 
+            "India", 
+            "South Africa"
+        ]
+    }, 
+    {
+        "answer": "B", 
+        "question": "What connects the badges of Hampshire, Yorkshire, Northamptonshire, Derbyshire and Lancashire?", 
+        "options": [
+            "All depict a fruit", 
+            "All Depict a rose", 
+            "All are northern counties", 
+            "None of the above"
+        ]
+    }, 
+    {
+        "answer": "D", 
+        "question": "Which county did Graham Gooch represent throughout his cricket career?", 
+        "options": [
+            "Yorkshire", 
+            "Hampshire", 
+            "Warwickshire", 
+            "Essex"
+        ]
+    }, 
+    {
+        "answer": "D", 
+        "question": "Who among the following is the highest wicket taker of Ashes Series?", 
+        "options": [
+            "Mike Grating", 
+            "Ian Border", 
+            "Graham Gooch", 
+            "Shane Warn"
+        ]
+    }, 
+    {
+        "answer": "B", 
+        "question": "Which of the following cricketer entitled Dazzle as his autobiography?", 
+        "options": [
+            "Adam Gilchrist", 
+            "Darren Gough", 
+            "Allen Border", 
+            "Steve Waugh"
+        ]
+    }
+]
